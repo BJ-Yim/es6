@@ -1,0 +1,13 @@
+node
+
+npm install -g express  
+npm install -g express-generator
+
+ES6\server>express -e
+
+ES6>npm i gulp gulp-if gulp-concat webpack webpack-stream vinyl-named gulp-livereload gulp-plumber gulp-rename gulp-uglify gulp-util yars --save-dev
+ES6>npm i gulp-live-server del gulp-util --save-dev
+ES6>npm i babel-loader babel-core babel-preset-env --save-dev
+ES6>npm i require-dir --save-dev
+ES6>npm i babel-preset-es2015 --save-dev
+ES6>npm i gulp-sequence --save-dev
